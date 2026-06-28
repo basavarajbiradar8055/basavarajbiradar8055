@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Basavaraj Biradar 👋</h1>
 
 <p align="center">
-  <b>Software Developer &nbsp;|&nbsp; Data Analyst</b><br>
+  <b>Frontend Developer &nbsp;|&nbsp; Data Analyst</b><br>
   MCA Graduate &bull; New Horizon College of Engineering, 2025<br>
   📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 🟢 Open to Opportunities
 </p>
@@ -63,10 +63,17 @@
 
 ## 📁 Featured Projects
 
+### 📊 Data Analytics Projects
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [🍕 Pizza Sales Dashboard](https://github.com/basavarajbiradar8055/pizza_sales_dashboard) | Sales trend analysis, revenue tracking & customer behavior insights | SQL, Power BI |
 | [👥 HR Analytics Dashboard](https://github.com/basavarajbiradar8055/HR-Analytics-Dashboard) | Employee attrition analysis and workforce insights | Python, Power BI |
+
+### 💻 Software Development Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
 | [📚 Biblieotek](https://github.com/basavarajbiradar8055/BIBLEOTEK---INTELLIGENT-BOOKSHOP-SOLUTION) | Intelligent bookshop management system — internship project | PHP, MySQL, HTML/CSS |
 | [🍽️ Bridge2Meals](https://github.com/basavarajbiradar8055/bridge2meals-food-waste-management) | Food waste management platform — societal impact project | PHP, MySQL, JS, CSS |
 
