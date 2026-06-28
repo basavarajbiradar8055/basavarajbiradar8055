@@ -1,15 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Hey%20There!%20%F0%9F%91%8B%20I'm%20Basavaraj%20Biradar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<h1 align="center">Hey There! 👋, I'm Basavaraj Biradar</h1>
 
-<h3 align="center">MCA Graduate @ NHCE &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Software Developer</h3>
-<h4 align="center">Passionate About Data & Building Impactful Solutions 🚀</h4>
+<h3 align="center">MCA Graduate @ NHCE | Data Analyst | Software Developer | Passionate About Data & Building Impactful Solutions.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=basavarajbiradar8055&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<br/>
 
 - 🔭 Currently working on **Data Analytics & Dashboard Projects**
 - 🌱 Currently learning **Advanced SQL, Tableau & Python for Data Science**
@@ -54,10 +51,8 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=basavarajbiradar8055&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajbiradar8055&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
