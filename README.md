@@ -13,11 +13,11 @@
 ## About Me
 
 - 🎓 MCA graduate from **New Horizon College of Engineering** (2025)
-- 💻 Built frontend and full-stack web applications during internships using PHP, JavaScript, and HTML/CSS
-- 📊 Passionate about **Data Analytics** — transforming raw data into actionable business insights
-- 🔍 Currently seeking roles in **Frontend Development** and **Data Analytics**
-- 📫 Reach me at **biradarbasav8055@gmail.com**
-- 📬 Let's connect on [LinkedIn](https://linkedin.com/in/basavaraj-biradar-35781522b)
+- 🔭 Currently working on **Data Analytics & Dashboard Projects**
+- 🌱 Currently learning **Advanced SQL, Tableau & Python for Data Science**
+- 💬 Ask me about **Power BI, Tableau, SQL, Data Analysis, Web Development**
+- ➕ I love **Mathematics** — the logic behind numbers is what drew me to Data Analytics
+- ⚡ Fun fact: **I can turn a messy spreadsheet into a beautiful dashboard!**
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics
+### 📊 Data Analytics & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -48,6 +48,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics%20%26%20Mathematics-003B57?style=flat&logo=mathworks&logoColor=white)
 
 ### 💻 Software Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
